@@ -15,5 +15,7 @@ The Top.1 accuracy with OcCaMix for classification:
   <tr><th align="center">CUB200-2011</th><th align="center">78.40%</th><th align="center">82.94%</th><th align="center">83.69%</th></tr>
 </table>
 
+
+
 The trained models:
 [CIFAR100 + ResNet18](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CIFAR100_imagesize32_R18_OcCaMix.pt)
