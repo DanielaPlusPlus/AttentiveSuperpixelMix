@@ -12,7 +12,7 @@ Some trained models:
 -------------------
 [CIFAR100 + ResNet18](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CIFAR100_imagesize32_R18_OcCaMix.pt)
 
-[CIFAR100 + ResNet50](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CIFAR100_imagesize32_R50_OcCaMix.pt))
+[CIFAR100 + ResNet50](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CIFAR100_imagesize32_R50_OcCaMix.pt)
 
 [CIFAR100 + ResNeXt50](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CIFAR100_imagesize32_RX50_OcCaMix.pt)
 
