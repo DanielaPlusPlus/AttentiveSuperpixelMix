@@ -11,10 +11,15 @@ The source pytorch codes and some trained models are available here.
 Some trained models:
 -------------------
 [CIFAR100 + ResNet18](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CIFAR100_imagesize32_R18_OcCaMix.pt)
+
 [CIFAR100 + ResNet50](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CIFAR100_imagesize32_R50_OcCaMix.pt))
+
 [CIFAR100 + ResNeXt50](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CIFAR100_imagesize32_RX50_OcCaMix.pt)
+
 [CUB200-2011 + ResNet18](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CUB_R18_OcCaMix.pt)
+
 [CUB200-2011 + ResNet50](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CUB_R50_OcCaMix.pt)
+
 [CUB200-2011 + ResNeXt50](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CUB_RX50_OcCaMix.pt)
 
 The Top.1 accuracy with OcCaMix for classification:
