@@ -22,7 +22,7 @@ Some trained models:
 
 [CUB200-2011 + ResNeXt50](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/CUB_RX50_OcCaMix.pt)
 
-The Top.1 accuracy with OcCaMix for classification:
+The top.1 accuracy with OcCaMix for classification:
 --------------------------------------------------
 <table align="left">
   <tr><th align="center">Dataset</th><th align="center">ResNet18</th><th align="center">ResNet50</th><th align="center">ResNeXt50</th></tr>
