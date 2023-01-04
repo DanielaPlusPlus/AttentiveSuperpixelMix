@@ -1,5 +1,6 @@
 # OcCaMix
 Object-centric Contour-aware Data Augmentation Using Superpixels of Varying Granularity (OcCaMix)
+-------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/DanielaPlusPlus/OcCaMix/blob/main/framework.png)
 
